@@ -2,7 +2,7 @@
 FROM openjdk:8-jdk-alpine
 
 # Add Maintainer Info
-MAINTAINER Pankaj Kumar Singh <pkkashyap616@gmail.com>
+MAINTAINER Pankaj Kumar <pkkashyap616@gmail.com>
 
 # Add a volume pointing to /tmp
 VOLUME /tmp
